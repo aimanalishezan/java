@@ -4,7 +4,7 @@ public class product {
         System.out.println("tittle:iphone");
         System.out.println("price:1 cr");
         System.out.println("description:perfect product");
-        System.out.println("catagory:phone");
+        System.out.println("catagory:iphone");
 
     }
 }

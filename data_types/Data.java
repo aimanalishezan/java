@@ -26,8 +26,8 @@ There are mainly two types of data
 2.Double---keyword--double
 
 ***non_primitive:
-1.string
-2.arry
+1.String
+2.Arry
 3.e.t.c
  */
 

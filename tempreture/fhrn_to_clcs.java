@@ -4,7 +4,7 @@
  * 9/5*c+32
  */
 import java.util.Scanner;
-public class fahrenheit_to_celsius {
+public class fhrn_to_clcs {
     public static void main(String[] args) {
         double fahrenheit,temp;
         Scanner f=new Scanner(System.in);

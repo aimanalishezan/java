@@ -29,7 +29,7 @@ public class input {
         System.out.print("Enter your height:");
         hieght=h.nextFloat();
 
-        System.out.println("***************************");
+        System.out.println("***************************     ");
         System.out.println("Your name is :"+name);
         System.out.println("Your age is:"+age);
         System.out.println("Your height is:"+hieght);
